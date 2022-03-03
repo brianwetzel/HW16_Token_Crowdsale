@@ -15,9 +15,12 @@ But First, a little background on how this was built....
 
 ## Complie Contracts
 
-Both solidity files that make up Kasai Coin compiled succesfully in Remix with no bugs.  
+Both solidity files for Kasei Coind and the Crowdsale compiled succesfully in Remix with no bugs.  
 <br>
 ![alt=“”](EvaluationEvidence/1_compile.png)
+
+<br>
+
 ![alt=“”](EvaluationEvidence/2_compile.png)
 
 <br>
@@ -74,7 +77,11 @@ Ok, now to the fun part... let's buy some tokens!  Use the `KaseiCoinCrowdsale` 
 ![alt=“”](EvaluationEvidence/10_confirm_buy.png)
 
 
-Kaboom, You are now the proud owner of Kasei Coin!
+### Kaboom, You are now the proud owner of Kasei Coin!
+
+<br>
+
+----------------------
 
 <br>
 
@@ -86,9 +93,8 @@ So now you own some Kasei Coin.  Sick!  But don't take my word for it.  You know
 2. In MetaMask, scroll down to `Import Tokens`
 3. In the next window, copy the Kasei Coin contract address from Remix, and paste it in.  Then click 'Add Custom Token' and then click 'Import Tokens'
 ![alt=“”](EvaluationEvidence/import_tokens.png)
-
-Shazam!  Now under aseets in your MetaMask wallet, you can see your Kasei Coin (ticker KAS) balance.  
-    ![alt=“”](EvaluationEvidence/token_balance.png)
+4. Shazam!  Now under aseets in your MetaMask wallet, you can see your Kasei Coin (ticker KAS) balance.  
+![alt=“”](EvaluationEvidence/token_balance.png)
 
 <br>
 
@@ -110,7 +116,7 @@ In the left side of remix, navigate down to the `KaseiCoin` contract.  At the bo
 <br>
 
 ## To the Moon!
-Ok, now just hang and hopefully this Kasei Rocket Ship goes to the moon. 
+Ok, now just hang on and hopefully this Kasei Rocket Ship goes to the moon. 
 <br>
 
 ![alt=“”](EvaluationEvidence/moon_gif.gif)
