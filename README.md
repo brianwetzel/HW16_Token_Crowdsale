@@ -15,7 +15,7 @@ But First, a little background on how this was built....
 
 ## Complie Contracts
 
-Both solidity files for Kasei Coind and the Crowdsale compiled succesfully in Remix with no bugs.  
+Both solidity files for Kasei Coin and the Crowdsale compiled succesfully in Remix with no bugs.  
 <br>
 ![alt=“”](EvaluationEvidence/1_compile.png)
 
@@ -29,7 +29,7 @@ Both solidity files for Kasei Coind and the Crowdsale compiled succesfully in Re
 <br>
 
 ## Deploy Contract
-Once the contracts compiled with no bugs, I deployed the `KaseiCoinCrowdsaleDeployer` contract to the Ethereum Network.  Below are the details associated with deploying the contacts.
+Once the contracts compiled, I deployed the `KaseiCoinCrowdsaleDeployer` contract to the Ethereum Network.  Below are the details associated with deploying the contacts.
 
 <br>
 
