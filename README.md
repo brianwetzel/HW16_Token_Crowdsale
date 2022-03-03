@@ -1,7 +1,7 @@
 ![alt=“”](EvaluationEvidence/kasei_coin_logo.png)
 
 # Kasei Coin ICO • How to Puchase
-Congratultions!  So you want to purcahase Kasei Coin, eh?  Great choice.  Don't worry, it's totally not a rug pull, I promise.  Here are instructions with examples to help you make the purchase:
+Congratultions!  So you want to purchase Kasei Coin, eh?  Great choice.  Don't worry, it's totally not a rug pull, I promise.  Here are instructions with examples to help you make the purchase:
 
 <br>
 
